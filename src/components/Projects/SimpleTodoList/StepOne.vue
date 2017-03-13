@@ -95,7 +95,7 @@
     </section>
     <section>
         <h3>We're done!</h3>
-        <p>It should be working! If it is not, go back and review your code. If you're still having trouble ask an instructor or a helper!</p>
+        <p>It should be working! If it is not, go back and review your code. You can also compare it to a <a href="https://github.com/johnazre/simple-vue-todo-list">repo</a> on Github or see the working <a href="https://johnazre.github.io/simple-vue-todo-list/">example</a>: . If after reviewing you're still having trouble, ask an instructor or a helper!</p>
     </section>
   </div>
 </template>
