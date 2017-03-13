@@ -10,7 +10,7 @@
             <li><code>&lt;script&gt;&lt;/script&gt;</code> - The Javascript for the component</li>
             <li><code>&lt;style&gt;&lt;/style&gt;</code> - The CSS for the component</li>
         </ul>
-        <p>As much as we would love to keep all of the boilerplate HTML inside of the template tags, delete everything inside of the div with the id of "app"</p>
+        <p>As much as we would love to keep all of the boilerplate HTML and CSS inside of the template and style tags, delete everything inside of the div with the id of "app" and inside of the style tags at the bottom. We can worry about details later.</p>
         <p>Create a a single text input and a button, then below that, create another div with some headline (of which size is your choice) to denote our list of todos, once they are created.</p>
         <p>Below the h-tag inside of the div, make an unordered list with a single empty list item, which we will fill out when we start connecting the Javascript to the page.</p>
     </section>
