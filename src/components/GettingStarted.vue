@@ -28,7 +28,7 @@
       <p>That will take 30 seconds or a minute. Once that is done, run <code>npm run dev</code>. That will start the dev server and open a new window in your default browser (hopefully <a href="https://www.google.com/chrome/">Google Chrome</a>) on <code>http://localhost:8080</code></p>
     </section>
     <section>
-      <h3>4. If that worked, success! Move on to the <router-link to="/project-list">next step</router-link> to see how to get started! </h3>
+      <h3>4. If that worked, success! Move on to the <router-link to="/simple-todo-list/step-one">next step</router-link> to see how to get started! </h3>
     </section>
   </div>
 </template>
@@ -36,11 +36,6 @@
 <script>
 export default {
   name: 'getting-started',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
 }
 </script>
 

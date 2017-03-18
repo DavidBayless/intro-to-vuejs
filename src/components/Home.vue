@@ -3,7 +3,7 @@
     <div class="jumbotron text-center">
       <h1 class="">Welcome to Intro to VueJS!</h1>
       <p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
-      <p class=""><a class="btn btn-primary btn-lg"><router-link to="/getting-started">Get Started!</router-link></a></p>
+      <p class=""><a class="btn btn-primary btn-lg"><router-link to="/project-list">Get Started!</router-link></a></p>
     </div>
   </div>
 </template>
